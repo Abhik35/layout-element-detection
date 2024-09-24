@@ -64,7 +64,7 @@ Throughout the project, I explored several pretrained models for layout element 
 4. **Roboflow Integration**: [[Roboflow project](https://universe.roboflow.com/patent-jskng/table-figure-detection/dataset/22)]
 5. **Comfyui workflow**: [[Comfyui workflow](https://github.com/prodogape/Comfyui-Yolov8-JSON)]
 6. **Output**: [[Output](https://github.com/Abhik35/layout-element-detection/tree/main/Output%20file)]
-7. **Upload image for detection**: [[Upload image for detection]([https://github.com/Abhik35/layout-element-detection/tree/main/Output%20file](https://detect.roboflow.com/?model=table-figure-detection&version=20&api_key=wzRmkUQpIuQMR458uuuj)]
+7. **Upload image for detection**: [[Upload image for detection](https://detect.roboflow.com/?model=table-figure-detection&version=20&api_key=wzRmkUQpIuQMR458uuuj)]
 
 ---
 
