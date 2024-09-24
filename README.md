@@ -1,4 +1,4 @@
-#Layout Element Detection on PDF Documents - SciTech Patent Art
+Layout Element Detection on PDF Documents - SciTech Patent Art
 Overview
 This project focuses on detecting Layout Elements (such as text, tables, figures, and titles) from PDF documents, aiming to achieve performance comparable to Azure Layout Parser. Although the desired output wasn't fully achieved, significant efforts were made, including training custom models on the YOLOv8 architecture.
 
