@@ -76,7 +76,7 @@ Throughout the project, I explored several pretrained models for layout element 
 
 ### Acknowledgments
 
-- Thanks to **Bishal** for his assistance with manual annotation.
+- Thanks to @VishalMendhikar for his assistance with manual annotation.
 - Special recognition to the **Roboflow platform** for easing the annotation and detection workflow.
 
 ---
