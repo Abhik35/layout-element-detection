@@ -62,6 +62,7 @@ Throughout the project, I explored several pretrained models for layout element 
 2. **Model Training on Google Colab**: [[Link to Colab notebook](https://github.com/Abhik35/layout-element-detection/blob/main/Model%20Training/train_yolov8_object_detection_on_custom_dataset.ipynb)]
 3. **Model Weights**: [Links to weights and further training details](https://github.com/Abhik35/layout-element-detection/tree/main/Model%20Weights)]
 4. **Roboflow Integration**: [[Roboflow project link](https://universe.roboflow.com/patent-jskng/table-figure-detection/dataset/22)]
+5. **Comfyui workflow**: [[Comfyui workflow link]()]
 
 ---
 
