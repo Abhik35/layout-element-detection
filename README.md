@@ -29,7 +29,7 @@ Realizing the limitations of the initial model, I turned to manual annotation us
 
 - **Manual Annotation**: I started with 500 images, and after training a model with this subset, I used **Roboflow's auto-detection** feature to annotate another set of 500 images. This iterative approach continued until all 7,000 images were annotated.
   
-  Special thanks to **Bishal**, my colleague, who helped significantly with the manual annotation process.
+  Special thanks to [@VishalMendhikar](https://github.com/VishalMendhikar), my colleague, who helped significantly with the manual annotation process.
 
 - **Training Setup**:
   - **Pretrained Weights**: The model was fine-tuned using weights trained for 100 epochs on the PubLayNet dataset.
@@ -76,7 +76,7 @@ Throughout the project, I explored several pretrained models for layout element 
 
 ### Acknowledgments
 
-- Thanks to @VishalMendhikar for his assistance with manual annotation.
+- Thanks to [@VishalMendhikar](https://github.com/VishalMendhikar) for his assistance with manual annotation.
 - Special recognition to the **Roboflow platform** for easing the annotation and detection workflow.
 
 ---
