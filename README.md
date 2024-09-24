@@ -61,7 +61,7 @@ Throughout the project, I explored several pretrained models for layout element 
 1. **Python Script for PubLayNet Conversion to YOLOv8 Format**: [Link to the script]
 2. **Model Training on Google Colab**: [Link to Colab notebook]
 3. **Fine-Tuning and Model Weights**: [Links to weights and further training details]
-4. **Roboflow Integration**: [Roboflow project link]
+4. **Roboflow Integration**: [[Roboflow project link](https://universe.roboflow.com/patent-jskng/table-figure-detection/dataset/22)]
 
 ---
 
